@@ -13,8 +13,8 @@ This is a text based game, so all you need to do is type in the
 
 number that is behind your answer.
 ## Contribution
-Commit directly from the main branch
+Branch from main for your branch
 
 Make a pull request about your branch
 
-This code is for python and uses if statements, functions, inputs, print statements, and time to make the project
+Add at least one reviewer
