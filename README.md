@@ -13,8 +13,8 @@ This is a text based game, so all you need to do is type in the
 
 number that is behind your answer.
 ## Contribution
-Commit directly from the main branch
+Branch from main for your branch
 
 Make a pull request about your branch
 
-Branch from main for your feature branch
+Add at least one reviewer
