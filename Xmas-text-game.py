@@ -105,8 +105,7 @@ before. other elves come in and take
 you home you are put on the naughty 
 list forever. :'(""")
   t.sleep(2)
-  print("\nGAME OVER")
-  
+  print("\nGAME OVER")  
 else:
   print("""The elf leaves after a while of waiting, so 
 you look at the map and find the sleigh 
